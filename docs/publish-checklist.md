@@ -24,7 +24,7 @@ This is an operator checklist. Completing it requires an authenticated Chrome We
 - [ ] **[User-owned: Dashboard entry]** Justify the manifest permissions accurately: `alarms` schedules local lifecycle scans, `storage` retains local settings and archive records, and `tabs` reads required tab metadata and performs lifecycle actions. Use `docs/permission-rationale.md` as the supporting source.
 - [ ] **[User-owned: Dashboard entry]** Confirm the remote-code declaration against the uploaded package. For the current local-only implementation, select that no remote code is used.
 - [ ] **[User-owned: Dashboard entry]** Complete the data-use and Limited Use certifications truthfully. Disclose the local processing and storage of tab URLs, titles, and related lifecycle metadata as described in `docs/privacy-policy.md`; do not claim that data is sent to a service.
-- [ ] **[User-owned: public HTTPS hosting]** Host `docs/privacy-policy.md` unchanged or equivalently on a public HTTPS URL, then enter that exact URL in the Dashboard privacy-policy field. No hosting or policy URL is supplied by this repository.
+- [x] Public privacy-policy URL: `https://github.com/Anticlimax/tab-lifecycle/blob/main/docs/privacy-policy.md`. Enter this exact HTTPS URL in the Dashboard privacy-policy field.
 
 ## 4. Set distribution and support
 
