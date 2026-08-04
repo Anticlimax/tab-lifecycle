@@ -1,6 +1,6 @@
 # Chrome Web Store publication checklist
 
-This is an operator checklist. Completing it requires an authenticated Chrome Web Store developer account and public web hosting; this repository does not perform any Dashboard action or publish any URL.
+This is an operator checklist. The repository hosts the public privacy policy, but completing publication still requires an authenticated Chrome Web Store developer account and user-owned Dashboard actions.
 
 ## 1. Build the upload package
 
